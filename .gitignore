@@ -1,0 +1,8 @@
+.DS_Store
+journal/sessions/*.md
+!journal/sessions/.gitkeep
+*.cap
+*.pcap
+*.hc22000
+*.hccapx
+*.2500
